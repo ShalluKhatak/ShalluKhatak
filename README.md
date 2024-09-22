@@ -11,4 +11,4 @@ I'm a Full-Stack Web Developer working with JavaScript, Node.js, React, and MySQ
 - Cloud technologies and deployment strategies
 
 ### 💬 Let's Connect
-- [LinkedIn](www.linkedin.com/in/shallu-khatak)
+- [LinkedIn](https://www.linkedin.com/in/shallu-khatak/)
