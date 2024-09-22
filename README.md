@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi, I'm Shallu 👋
+I'm a Full-Stack Web Developer working with JavaScript, Node.js, React, and MySQL to create dynamic, user-friendly web applications.
 
-<!--
-**ShalluKhatak/ShalluKhatak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Skills
+- Frontend: HTML5, CSS3, JavaScript (ES6+), React
+- Backend: Node.js, Express.js, MySQL
+- Tools: Git, GitHub
 
-Here are some ideas to get you started:
+### 🌱 What I'm Learning
+- Advanced Node.js and Express
+- Cloud technologies and deployment strategies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💬 Let's Connect
+- [LinkedIn](www.linkedin.com/in/shallu-khatak)
